@@ -26,7 +26,6 @@ While entering an empty input or not valid email address, there is appear a mess
 ### Screenshot
 
 ![](images/web-version-screenshot.png)
-/Users/nurlanova2012gmail.com/Desktop/Challanges JS/base-apparel-coming-soon-master/images/web-version-screenshot.png
 
 ### Links
 
