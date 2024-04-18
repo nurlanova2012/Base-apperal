@@ -59,4 +59,4 @@ In next challanges I wish to use more deep complex logic JS structure.
 ## Author
 
 - Website - [Aizirek Nurlanbekova](https://github.com/nurlanova2012)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/nurlanova2012)
+- Frontend Mentor - [@nurlanova2012](https://www.frontendmentor.io/profile/nurlanova2012)
