@@ -16,7 +16,7 @@ This is a solution to the [Base Apparel coming soon page challenge on Frontend M
 - [Author](#author)
 
 ## Overview
-This challange is exiting to complete using bacis js skills.
+This challenge is exiting to complete using bacis js skills.
 
 ### The challenge
 
@@ -44,15 +44,15 @@ While entering an empty input or not valid email address, there is appear a mess
 
 ### What I learned
 
-In this challange I have learned some basic implementation both in HTML and JS.
+In this challenge I have learned some basic implementation both in HTML and JS.
 
 ### Continued development
 
-In next challanges I wish to use more deep complex logic JS structure.
+In next challenges I wish to use more deep complex logic JS structure.
 
 ### Useful resources
 
-- [Example resource 1](https://www.stackoverflow.com) - This helped me as always to solve some part of challanging questions.
+- [Example resource 1](https://www.stackoverflow.com) - This helped me as always to solve some part of challenging questions.
 
 - [Example resource 2](https://www.w3schools.com) - This platform is amazing on using basic or getting deep more advance level coding skill.
 
