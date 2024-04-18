@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- displays site properly based on user's device -->
+
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./images/favicon-32x32.png"
+    />
+    <link rel="stylesheet" href="css/styles.css" />
+    <title>Frontend Mentor | Base Apparel coming soon page</title>
+  </head>
+  <body>
+    <main>
+      <div class="container">
+        <h1>BASE APPAREL</h1>
+        <div class="content">
+          <h2><strong>We're </strong>coming soon</h2>
+          <p>
+            Hello fellow shoppers! We're currently building our new fashion
+            store. Add your email below to stay up-to-date with announcements
+            and our launch deals.
+          </p>
+          <form class="form" action="/" method="get">
+            <input
+              id="email"
+              type="email"
+              name="email"
+              placeholder="Email Address"
+            />
+            <button id="button" type="submit">
+              <img src="images/icon-arrow.svg" alt="arrow" />
+            </button>
+            <div class="message-container"></div>
+            <div id="worrning" class="error-message ">
+              <img src="images/icon-error.svg" alt="icon error">
+            </div>
+          </form>
+        </div>
+        <img class="hero-img" src="images/hero-desktop.jpg" alt="content-img" />
+      </div>
+    </main>
+
+    <script src="index.js"></script>
+  </body>
+</html>
